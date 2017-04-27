@@ -1,0 +1,7 @@
+1. Write a Python program to generate all sublists of a list.
+
+2. Write a Python program to find common items from two lists.
+
+3. Write a Python program to convert a list of multiple integers into a single integer.
+    Sample list: [23, 45, 12]
+    Expected Output: 234512
