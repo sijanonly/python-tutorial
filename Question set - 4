@@ -12,3 +12,21 @@ NOTE: Track the count of the letters from the string.
 4.  Write a Python function that checks whether a passed string is palindrome or not.
 
 e.g., madam
+
+5.  Create list comprehension for following code:
+
+  5.a 
+  	numbers = [1, 5, 2, 12, 14, 7, 18]
+  	even_sq_numbers = []
+	for number in numbers:
+	    if number % 2 == 0:
+	        even_sq_numbers.append(number*number)
+
+  5.b
+		word = 'python is awesome'
+		cap_list = []
+		for char in word:
+			if char not in 'aeiou':
+			    cap_list.append(char.upper())
+
+
