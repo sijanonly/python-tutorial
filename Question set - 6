@@ -1,0 +1,14 @@
+1. Define a generator to get numbers between 0 to 90 which are divisible by 5.
+
+2. Extract company name from the email : "yuming@omani.com"
+
+3. WAP which can take a sentence (combination of strings) and extract integer ,create list of integers.
+
+Example : 
+input: there are 4 boys and 6 girls for 9 days training.
+output : [4,6,9]
+
+
+4. Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+
+5. WAP to print the even numbers between 0 to n in comma separated form using generator. (n from console)
